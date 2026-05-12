@@ -1,0 +1,28 @@
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Database files
+*.sql
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Playwright browser binaries
+playwright/
